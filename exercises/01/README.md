@@ -1,4 +1,4 @@
-### Exercise 1
+### Exercise 1: +1
 
 Create a web page with a text box and a button. The text box has "0" in it. Every time a user presses the button, the value in the text box increases by 1.
 
